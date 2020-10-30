@@ -5,4 +5,7 @@ package com.duyi;
  * @create 2020-10-30 10:46
  */
 public class Maintest {
+    public static void main(String[] args) {
+        System.out.println("hello git");
+    }
 }
