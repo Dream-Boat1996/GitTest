@@ -11,5 +11,6 @@ public class Maintest {
         System.out.println("hello master");
 
         System.out.println("hello test");
+        System.out.println("布丁熊.菲特尼斯");
     }
 }
